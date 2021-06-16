@@ -1,0 +1,3 @@
+"0","ggplot(data = arbuthnot) +"
+"0","  geom_line(mapping = aes(x = year, y = boys/total))"
+"0",""
